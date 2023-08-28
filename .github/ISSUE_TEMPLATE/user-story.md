@@ -1,20 +1,3 @@
----
-name: User story
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: This tamplate is for creating user story
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a** [role]  
  **I need** [function]  
