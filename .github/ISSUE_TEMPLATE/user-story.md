@@ -1,4 +1,11 @@
+---
+name: User Story
+about: This tamplate is for creating user story
+title: ''
+labels: ''
+assignees: ''
 
+---
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
